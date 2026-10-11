@@ -1,0 +1,4 @@
+﻿gf_app_打包源码/
+build_log*.txt
+*.apk
+*.idsig
